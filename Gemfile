@@ -13,6 +13,7 @@ group :development , :test do
   gem 'sqlite3'
 end
 # Use Puma as the app server
+gem 'aws-sdk'
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
